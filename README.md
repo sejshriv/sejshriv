@@ -1,4 +1,4 @@
-
+![logo](https://github.com/sejshriv/sejshriv/blob/main/Sejal.png)
 <h1 align="center">Hi 👋, I'm Sejal Shrivastava</h1>
 <h3 align="center"> <i>A passionate Full Stack Developer from India </i></h3>
 <img align="right" alt="coding" width="420"  src="https://github.com/sejshriv/sejshriv/assets/120376257/1dc2a999-4f7e-4454-a48f-5ae1bec819cb " />
