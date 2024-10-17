@@ -7,8 +7,7 @@
 
 - 📫 How to reach me **sejalshrivastava.008@gmail.com**
 
-- 📄 Know about my experiences ~[ [https://drive.google.com/file/d/1tGjHSSlq5AcMwL6BGHLQTcpaMSLEvtOJ/view?usp=sharing](https://drive.google.com/file/d/1tGjHSSlq5AcMwL6BGHLQTcpaMSLEvtOJ/view?usp=sharing)]
-](https://drive.google.com/file/d/1oM2g4Ekrd33B6V5Xuc7O_2beNU2WT1ds/view?usp=drivesdk)
+- 📄 Know about my experiences ~(https://drive.google.com/file/d/1oM2g4Ekrd33B6V5Xuc7O_2beNU2WT1ds/view?usp=drivesdk)
 <h3 align="left">Connect with me:</h3>
 <p align="left" >
 <a href="https://linkedin.com/in/sejal-shrivastava-227785191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sejal-shrivastava-227785191/" height="30" width="40" /></a>
